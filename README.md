@@ -1,4 +1,4 @@
-![Logo](https://blog.skillmonks.com/wp-content/uploads/2020/08/java-full-stack-developer-training-in-bangalore-tib-1024x683.jpg)
+
 # Hi, I'm Cesar! 👋
 
 
